@@ -1,5 +1,5 @@
 # About Me:
-I am currently learning Data Science through the IBM Data Science Professional Certificate.
+I am a Junior Data and AI Engineer.
 
 
 ## Socials:
